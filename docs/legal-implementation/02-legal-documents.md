@@ -6,7 +6,7 @@
 
 Last updated: TODO.
 
-Brazilian Soccer Training Center INC, doing business as Brazilian Soccer Training Center (“BSTC,” “we”), operates these services. Our address is TODO, TODO, FL TODO. Privacy contact: privacy@bstcsoccer.com; phone TODO (brief supplied 786-552-7577; confirm). Our stated website is https://www.bstcsoccer.com; the new canonical URL is TODO. Our services are intended for United States / Florida programs.
+Brazilian Soccer Training Center INC, doing business as Brazilian Soccer Training Center (“BSTC,” “we”), operates these services. Our address is TODO, TODO, FL TODO. Privacy contact: privacy@bstcsoccer.com; phone 786.522.7577. Our stated website is https://www.bstcsoccer.com; the new canonical URL is TODO. Our services are intended for United States / Florida programs.
 
 **Information and purposes.** Parents provide name, email, phone, mailing address and account credentials. After parental verification, they provide necessary child name, birthdate, jersey size, program choices and emergency adult contact. Gender and relevant health notes are optional; health information is restricted. School is not requested by default. We maintain enrollment, necessary participation records, payment references, signed consents and support/privacy requests. This supports registration, age grouping, schedules, safety, payment, parent communication and honoring choices. Optional publicity, marketing and unnecessary data are not required to play. Required safety forms still apply.
 
@@ -26,7 +26,7 @@ Providers receive deletion instructions. Restricted backups expire on the verifi
 
 Last updated: TODO.
 
-The operator is Brazilian Soccer Training Center INC, TODO, TODO, FL TODO; phone TODO (supplied 786-552-7577); privacy@bstcsoccer.com. Programs include children under 13. Only adult parents/legal guardians have accounts. Children do not submit information; ages 13–17 remain parent-managed. A minor sibling cannot enroll another child.
+The operator is Brazilian Soccer Training Center INC, TODO, TODO, FL TODO; phone 786.522.7577; privacy@bstcsoccer.com. Programs include children under 13. Only adult parents/legal guardians have accounts. Children do not submit information; ages 13–17 remain parent-managed. A minor sibling cannot enroll another child.
 
 Before a child profile is collected, parents receive a direct notice describing proposed fields, purposes, providers, disclosure choices and rights. We verify parental consent using an approved method. Email verification, a checkbox or last four card digits alone is not completed verification. The approved free-program method is TODO; free enrollment does not require a charge. A qualifying paid transaction is used only in an approved notice-and-verification flow. Ask privacy@bstcsoccer.com about available alternatives.
 
@@ -57,7 +57,7 @@ Treat players and families respectfully. No harassment, abuse, unsafe conduct, u
 
 Official records and parent messages use approved tools, not personal WhatsApp, GroupMe, Instagram or email rosters. Coaches contact parents only. Sessions may stop for heat, lightning or field conditions. Makeup/refund treatment is TODO and must be disclosed before purchase. No position, playing time or scholarship is promised.
 
-Nothing in these Terms releases BSTC's own negligence as to a minor or removes nonwaivable rights. No arbitration, class-action waiver or jury waiver is included. Florida law and Miami-Dade County venue apply to the extent permitted by mandatory law. Material changes require notice and new agreement when appropriate. Contact info@bstcsoccer.com; TODO, TODO, FL TODO; phone TODO. Insurance disclosure: INSURANCE_NOTE TODO.
+Nothing in these Terms releases BSTC's own negligence as to a minor or removes nonwaivable rights. No arbitration, class-action waiver or jury waiver is included. Florida law and Miami-Dade County venue apply to the extent permitted by mandatory law. Material changes require notice and new agreement when appropriate. Contact info@bstcsoccer.com; TODO, TODO, FL TODO; phone 786.522.7577. Insurance disclosure: INSURANCE_NOTE TODO.
 
 ## 4. Inherent Risk Waiver — /legal/waiver/:versionId
 Version 2026.09.23-DRAFT · Effective: TODO
@@ -161,7 +161,7 @@ Version 2026.09.23-DRAFT · Effective: TODO
 
 **9. Concussion and injury.** A child suspected of a concussion is removed from play immediately, the parent is notified, and written clearance from an appropriately qualified health-care practitioner is required before return and must be reviewed under current law and league rules.
 
-**10. Questions.** safety@bstcsoccer.com · phone TODO (supplied 786-552-7577; confirm).
+**10. Questions.** safety@bstcsoccer.com · phone 786.522.7577.
 
 ---
 
@@ -203,7 +203,7 @@ Withdraw at /account/privacy or privacy@bstcsoccer.com. New public use stops imm
 
 ## SMS Terms — operational and marketing
 
-Last updated: TODO. Operator: Brazilian Soccer Training Center INC. Support: info@bstcsoccer.com; phone TODO. Privacy: /privacy.
+Last updated: TODO. Operator: Brazilian Soccer Training Center INC. Support: info@bstcsoccer.com; phone 786.522.7577. Privacy: /privacy.
 
 **Operational SMS.** With your separate opt-in we send schedule, weather, cancellation, safety and account notices to your adult phone number. Frequency varies with program activity. Messages may use automated systems. SMS is optional; email/portal alternatives remain available. No offers are inserted into operational messages. Msg & data rates may apply. Reply STOP to cancel, HELP for help. Carrier delivery is not guaranteed; carriers are not responsible for delayed/undelivered messages.
 
@@ -230,7 +230,7 @@ Session cookies must be Secure, HttpOnly and SameSite=Lax or Strict as appropria
 
 Last updated: TODO.
 
-BSTC aims to make public pages, parent forms and documents usable by people with disabilities, with WCAG 2.1 Level AA as the implementation target. This is not a statement that an independent audit has found every page conformant. We work toward labeled controls, keyboard access, visible focus, sufficient contrast, understandable errors, useful alt text and accessible documents. If a page, payment handoff or PDF prevents you from completing a task, contact info@bstcsoccer.com or phone TODO. Tell us the page, task and preferred way to respond; do not email medical information. We will help with an accessible alternative without removing required informed-consent protections. Audit date, known issues and remediation contact: TODO before publication.
+BSTC aims to make public pages, parent forms and documents usable by people with disabilities, with WCAG 2.1 Level AA as the implementation target. This is not a statement that an independent audit has found every page conformant. We work toward labeled controls, keyboard access, visible focus, sufficient contrast, understandable errors, useful alt text and accessible documents. If a page, payment handoff or PDF prevents you from completing a task, contact info@bstcsoccer.com or phone 786.522.7577. Tell us the page, task and preferred way to respond; do not email medical information. We will help with an accessible alternative without removing required informed-consent protections. Audit date, known issues and remediation contact: TODO before publication.
 
 ## Do Not Sell or Share — /do-not-sell
 

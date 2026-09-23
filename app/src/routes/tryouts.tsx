@@ -38,7 +38,7 @@ function Tryouts() {
                   <li><span className="ck">✓</span> Held at Highland Oaks Park, Aventura</li>
                 </ul>
                 <p style={{ marginBottom: 14 }}>
-                  Call <a href="tel:7865227577" style={{ color: "#fff", fontWeight: 600 }}>786.522.7577</a>{" "}
+                  Call <a href="tel:+17865227577" style={{ color: "#fff", fontWeight: 600 }}>786.522.7577</a>{" "}
                   or email{" "}
                   <a href="mailto:info@bstcsoccer.com" style={{ color: "#fff", fontWeight: 600 }}>
                     info@bstcsoccer.com

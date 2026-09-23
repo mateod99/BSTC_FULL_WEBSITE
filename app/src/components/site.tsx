@@ -147,7 +147,7 @@ export function Footer() {
         </div>
         <div>
           <h4>Contact Us</h4>
-          <a href="tel:7865227577">786.522.7577</a>
+          <a href="tel:+17865227577">786.522.7577</a>
           <a href="mailto:info@bstcsoccer.com">info@bstcsoccer.com</a>
           <p className="footer-addr">
             Highland Oaks Park

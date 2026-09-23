@@ -25,7 +25,7 @@ Read in this order:
 | Domain transition | Owner selected bstcsoccer.store for a new deployment. Canonical legal/portal URL: TODO; do not silently replace the existing Wix domain. |
 | Principal postal address | TODO, TODO, FL TODO. The practice park address is not automatically the legal mailing address. |
 | Venue | Miami-Dade County, Florida |
-| Operator phone | Brief: 786-552-7577. Current website: 786-522-7577. Correct operator number: TODO. |
+| Operator phone | 786.522.7577 — confirmed by Matthew; click-to-call: tel:+17865227577. |
 | Privacy / support / safety | privacy@bstcsoccer.com / info@bstcsoccer.com / safety@bstcsoccer.com; mailbox delivery and ownership must be tested. |
 | Programs / ages | Florida teams, clinics, camps and private/group soccer training, indoor/outdoor; approximately ages 4–14. All under-18 accounts remain parent-managed. |
 | Affiliation | FYSA, as supplied; current affiliation and required forms must be verified. |

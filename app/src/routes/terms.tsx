@@ -29,7 +29,7 @@ function Terms() {
             us directly.
           </p>
           <h2>Contact</h2>
-          <p>Questions about these terms: info@bstcsoccer.com or 786.522.7577.</p>
+          <p>Questions about these terms: info@bstcsoccer.com or <a href="tel:+17865227577">786.522.7577</a>.</p>
         </div>
       </section>
     </Page>

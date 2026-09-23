@@ -6,7 +6,7 @@ This delivery adds a reviewable implementation package. It does not install a re
 
 | Area | Evidence in marketing source | Remaining work |
 |---|---|---|
-| Public marketing pages | Home, about, programs, travel, tryouts and contact routes exist. | Validate deployed source and reconcile domain/phone. |
+| Public marketing pages | Home, about, programs, travel, tryouts and contact routes exist. | Validate deployed source and confirm canonical domain; main phone 786.522.7577 confirmed. |
 | Prior requested content | Matthew/Marina emails and training schedule are in the imported source. | Keep GitHub and deployed Higgsfield revisions synchronized deliberately. |
 | Legal pages | `/privacy` and `/terms` exist as short pages. Footer links only these two policies. | Replace only after review; build all remaining policy routes and full footer. |
 | Contact intake | `app/src/routes/contact.tsx` collects player name and age and opens a `mailto:` draft; it does not establish verified consent or successful delivery. | Convert initial inquiries to adult-only minimal contact; direct enrollment to a verified portal. No child photo/health/school in free-form text. Never show mail launch as confirmed receipt. |

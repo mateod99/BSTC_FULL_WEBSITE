@@ -55,7 +55,7 @@ Hello {{PARENT_NAME}}, enrollment {{ENROLLMENT_ID}} is confirmed for {{PROGRAM}}
 
 Subject: Review how BSTC will use your child's information
 
-Hello {{PARENT_NAME}}, you requested registration with Brazilian Soccer Training Center INC, TODO, TODO, FL TODO; phone TODO (supplied 786-552-7577); privacy@bstcsoccer.com. We collected your adult contact to send this notice and request parental permission. Please review it before providing child details.
+Hello {{PARENT_NAME}}, you requested registration with Brazilian Soccer Training Center INC, TODO, TODO, FL TODO; phone 786.522.7577; privacy@bstcsoccer.com. We collected your adult contact to send this notice and request parental permission. Please review it before providing child details.
 
 With your verified permission we will collect your child's name, birthdate, jersey size, program/team and necessary participation records, your relationship to the child and emergency adult contact. Gender and relevant health notes are optional; health information is restricted. We keep consent evidence and essential security/session identifiers. We use this information for registration, age grouping, schedules, safety, payment, parent communication and honoring choices. Children do not have accounts or communicate through the service.
 
@@ -105,6 +105,6 @@ Marketing — disabled: “BSTC: {{COUNSEL_APPROVED_OFFER}}. Details: {{OFFICIAL
 
 STOP confirmation: “BSTC: You are unsubscribed from texts from this sender. No more texts will be sent unless you opt in again. Manage preferences at {{OFFICIAL_URL}}.” Send only if allowed by current carrier/vendor rules; no promotional content.
 
-HELP: “BSTC help: info@bstcsoccer.com, phone TODO. Message frequency varies. Msg & data rates may apply. Reply STOP to cancel.” Suppression rules determine whether a response is allowed; never reactivate through HELP.
+HELP: “BSTC help: info@bstcsoccer.com, phone 786.522.7577. Message frequency varies. Msg & data rates may apply. Reply STOP to cancel.” Suppression rules determine whether a response is allowed; never reactivate through HELP.
 
 Vendor message types must distinguish operational and marketing. An ambiguous or sender-wide STOP suppresses all messages for that sender. A separate category opt-out can leave another category active only if the parent intended it and carrier rules and law permit it. Carrier suppression always wins; do not bypass it with another sender.

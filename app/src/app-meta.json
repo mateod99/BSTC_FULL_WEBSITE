@@ -3,5 +3,6 @@
   "og_description": "Brazilian soccer training in Aventura, FL since 1996. Recreational and competitive programs for boys and girls ages 3-16.",
   "og_image_url": "/assets/cover.jpg",
   "favicon_url": "/assets/favicon.png",
-  "og_video_url": null
+  "og_video_url": null,
+  "marketplace_cover_url": "/assets/cover.jpg"
 }

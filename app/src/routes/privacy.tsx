@@ -29,7 +29,7 @@ function Privacy() {
           </p>
           <h2>Questions</h2>
           <p>
-            Contact us at info@bstcsoccer.com or 786.522.7577 with any questions about your
+            Contact us at info@bstcsoccer.com or <a href="tel:+17865227577">786.522.7577</a> with any questions about your
             information.
           </p>
         </div>

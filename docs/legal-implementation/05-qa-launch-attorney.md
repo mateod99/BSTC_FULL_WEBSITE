@@ -51,7 +51,7 @@ Attach evidence to each case: build SHA, environment, test data IDs, date, opera
 
 ## Launch blockers — no registration/payment/public-policy launch while any apply
 
-- Operator identity/address/contact contains TODO, phone conflict unresolved, or canonical domain uncertain.
+- Operator identity/address/contact contains TODO, canonical domain uncertain.
 - Ad/analytics pixels or IDs appear in runtime, build environment, injected tags or vendor configuration.
 - Child self-signup, teen social login, child messaging or unsafe unverified intake exists.
 - Locked notice is altered, hidden, collapsible, clipped or less than five points larger than waiver body.
