@@ -29,3 +29,10 @@ This is the marketing website, not the separate BSTC payment portal. It does not
 The server-rendered application is not a plain HTML upload for Namecheap shared hosting. A compatible deployment setup or separately prepared static export is needed before serving it there.
 
 Keep secrets out of Git. Configure them in the hosting environment when required.
+
+## Legal and child-safety implementation package
+
+The [draft implementation package](docs/legal-implementation/README.md) covers architecture, roles, consent flows, data model, API contracts, jobs, legal pages, WISP, incident response, communications, retention, QA and launch blockers. It is prepared for review by a Florida-licensed attorney.
+
+Read the [implementation status](docs/legal-implementation/implementation-status.md) before treating any policy promise as a live feature. This commit adds documentation and specifications; it does not implement or deploy the separate payment portal. The [coverage index](docs/legal-implementation/coverage.md) maps the requested checklist to files. Missing operator facts, verification approval and other launch blockers remain explicit.
+
