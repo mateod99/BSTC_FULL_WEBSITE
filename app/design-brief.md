@@ -1,0 +1,12 @@
+# BSTC design brief
+- Design read: parents of young players in Aventura, FL deciding where their child plays; warm, trustworthy, energetic sports-club register.
+- Concept spine: "the club crest come to life" - the shield's navy/green/yellow painted across the page as brush-stroke energy.
+- Delivery tier: editorial (calm multi-page club site, micro-motion only).
+- Animation mode: non-animated - user picked Non-animated at intake.
+- Locked palette: navy #172a5c / #101f47, green #1e8a3c / #146b2d, yellow #f5c516, pink #e94f9e (Pink Panthers sub-brand only), paper #ffffff, off #f6f7f9. Defense: the user's own crest colors and approved mockups lock this palette.
+- Locked type: Oswald 500-700 (condensed uppercase display) + Geist 400-600 body, per the user's mockups.
+- Section plan (home): field-status strip, white split hero, 4-card program finder, navy 30-years band, icon value row, duo panels (registration + Pink Panthers).
+- Asset plan: user's transparent crest; Higgsfield-generated photography (coed, girls, private, sunset team, boots, cover). Coach portrait, travel huddle and 3 more shots pending re-render (credits ran out).
+- CTA inventory: nav Register (green), hero View Programs (green) / Register Now (yellow), per-card Learn More (card color), years-band Our Story (yellow outline), panels Register (yellow) / Learn More (pink), practice band Check Field Status (yellow), footer Contact Us (green).
+- Field Status: app/src/lib/field-status.ts drives the color-coded strip on every page.
+- Source of truth: the user's three mockup images (2026-09-03).
